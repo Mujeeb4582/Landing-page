@@ -159,3 +159,18 @@ span {
 .end {
     border: solid white thin;
 }
+
+/*----------- main content end -----------*/
+
+/*------------footer start-----------*/
+
+footer{
+    background-color:#1f2937;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    color:#f9faf8;
+    font-size: 18px;
+    font-weight: 300;
+}
